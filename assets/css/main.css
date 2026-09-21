@@ -4393,3 +4393,7 @@ body.landing #page-wrapper {
 		#recent-projects .project-content .button:hover {
 			background-color: var(--accent-hover);
 		}
+iframe.image.fit {
+	width: 100%;
+	height: 600px;
+}
